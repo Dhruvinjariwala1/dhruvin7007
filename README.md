@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvinjariwala1&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvinjariwala1" /> </p>
 
-<img align="right" height="150" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif"  />
+<img align="right" height="200" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif"  />
 
 
 - 🔭 I’m currently working on **Stanford Hospital(College Project)**
