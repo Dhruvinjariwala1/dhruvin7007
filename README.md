@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Asp.net Mvc Framework and Mssql Server**
 
-- 💬 Ask me about **Web Development,Python,UI/UX**
+- 💬 Ask me about **Asp.net Mvc Core,Web Development,Python,UI/UX**
 
 - 📫 How to reach me **dhruvinjariwala422002@gmail.com**
 
